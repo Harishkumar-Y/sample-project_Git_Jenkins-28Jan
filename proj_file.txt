@@ -1,3 +1,7 @@
 asdfdfddfaafadadsfad
 
+<<<<<<< HEAD
 branch2 is now changes updated...
+=======
+branch2 modified the code...
+>>>>>>> branch2
